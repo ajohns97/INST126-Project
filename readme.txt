@@ -1,0 +1,1 @@
+The ipynb file in this folder uses the excel file StatusWomen. The other excel file, Status of Women in States, is the original data file, while the StatusWomen file is the one with Pandas set up.
